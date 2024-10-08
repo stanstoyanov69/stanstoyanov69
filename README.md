@@ -16,6 +16,7 @@
 - [Fundamentals of Cyber Resilience and Risk Management Skill] https://www.codecademy.com/profiles/stoyanovstann/certificates/7de26e1b89b548628235c27c722d5af2
 - [Google Data Analytics] https://www.coursera.org/account/accomplishments/professional-cert/EBPE5ASTCW3V
 - [Softuni Programming Basics] https://softuni.bg/users/profile/certificates?username=StanislavStoyanov69
+- [SOC Analyst Level 1] https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ICUVAVLJD6.png
 <h2> 🤳 Connect with me:</h2>
 
 
