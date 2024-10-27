@@ -2,10 +2,7 @@
 
 <h1>Hi, I'm Stan! </h1>
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Active Directory Home Lab</b>
-  - [Active Directory Home Lab](https://github.com/)
 
 
 <h2>Certifications </h2>
