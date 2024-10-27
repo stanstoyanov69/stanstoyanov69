@@ -17,6 +17,7 @@
 - [Google Data Analytics] https://www.coursera.org/account/accomplishments/professional-cert/EBPE5ASTCW3V
 - [Softuni Programming Basics] https://softuni.bg/users/profile/certificates?username=StanislavStoyanov69
 - [SOC Analyst Level 1] https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ICUVAVLJD6.png
+- [Microsoft Security,Identity and Compliance - SC-900] https://learn.microsoft.com/api/credentials/share/en-us/StanStoyanov-9432/59C36C929CA9E15F?sharingId=2A9808C8A79AEA16
 <h2> 🤳 Connect with me:</h2>
 
 
